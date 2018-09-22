@@ -1,6 +1,6 @@
 Predictive Model Markup Language (PMML) IRIS Model Serving
 ==============================
-[![Try Now](../../trynow.png)](http://localhost:18630?pipelineTitle=Serve PMML IRIS Model&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-pmml-model-serving/pipeline.json)
+[![Try Now](../../trynow.png)](http://localhost:18630?pipelineTitle=Serve+PMML+IRIS+Model&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-pmml-model-serving/pipeline.json)
 
 This pipeline implements Predictive Model Markup Language (PMML) IRIS Model Serving Microservice. 
 

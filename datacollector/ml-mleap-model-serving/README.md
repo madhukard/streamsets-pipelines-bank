@@ -1,6 +1,6 @@
 MLeap Airbnb Price Prediction Model Serving
 ==============================
-[![Try Now](../../trynow.png)](http://localhost:18630?pipelineTitle=Serve MLeap Airbnb Price Prediction Model&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-mleap-model-serving/pipeline.json)
+[![Try Now](../../trynow.png)](http://localhost:18630?pipelineTitle=Serve+MLeap+Airbnb+Price+Prediction+Model&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-mleap-model-serving/pipeline.json)
 
 This pipeline implements MLeap Airbnb Price Prediction Model Serving Microservice. 
 
