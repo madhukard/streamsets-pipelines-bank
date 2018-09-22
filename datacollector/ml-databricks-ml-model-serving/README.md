@@ -1,6 +1,6 @@
 Databricks ML Model Serving
 ==============================
-[![Try Now](../trynow.png)](http://localhost:18630?pipelineTitle=ServingDatabricksMLModel&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-databricks-ml-model-serving/pipeline.json)
+[![Try Now](../../trynow.png)](http://localhost:18630?pipelineTitle=Serve Databricks ML Model&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/ml-databricks-ml-model-serving/pipeline.json)
 
 This pipeline implements Databricks ML Spark-trained Model Serving Microservice. 
 
