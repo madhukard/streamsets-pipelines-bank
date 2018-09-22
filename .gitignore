@@ -1,0 +1,22 @@
+.DS_Store
+
+# Git
+*.rej
+*.orig
+
+# Maven
+target
+
+# VS Code
+.vscode
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse
+.classpath
+.project
+.settings
