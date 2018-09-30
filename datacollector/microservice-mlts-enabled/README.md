@@ -3,7 +3,7 @@ MTLS Enabled Microservice Pipeline
 
 [Import MTLS Enabled Microservice Pipeline](http://localhost:18630?pipelineTitle=MTLS+Enabled+Microservice+Pipeline&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/microservice-mlts-enabled/MTLSEnabledMicroservicePipeline.json)
 
-[Import MTLS Client Example Pipeline](http://localhost:18630?pipelineTitle=MTLS+Enabled+Microservice+Pipeline&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/microservice-mlts-enabled/MTLSClientExample.json)
+[Import MTLS Client Example Pipeline](http://localhost:18630?pipelineTitle=MTLS+Client+Example&importPipelineFromUrl=https://raw.githubusercontent.com/madhukard/streamsets-pipelines-bank/master/datacollector/microservice-mlts-enabled/MTLSClientExample.json)
 
 
 
