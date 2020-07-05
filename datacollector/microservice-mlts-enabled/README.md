@@ -12,7 +12,7 @@ MTLS Enabled Microservice Pipeline
 Prerequisites
 -------------
 
-* [StreamSets Data Collector](https://streamsets.com/opensource/) 3.5.0 or higher
+* [StreamSets Data Collector](https://streamsets.com/opensource/) 3.7.0 or higher
 
 
 Create Truststores and Keystores for the Client and Server
